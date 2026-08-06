@@ -209,6 +209,6 @@ Node.js
 
 📧 Email: [rickpedrinha@sempreceub.com](mailto:rickpedrinha@sempreceub.com)
 
-💼 LinkedIn: https://linkedin.com/in/seulink
+💼 LinkedIn: https://www.linkedin.com/in/henrique-pedrinha-356b051bb/
 
 💻 GitHub: https://github.com/rick-pedrinha
