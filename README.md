@@ -2,7 +2,7 @@
 <img src="./henrique-appfun.jpg" width="260"/>
 </p>
 
-<h1 align="center">Henrique Furtado | Computer Science Student</h1>
+<h1 align="center">Henrique Pedrinha | Computer Science Student</h1>
 
 <p align="center">
 🚀 Software Development • ☁️ Cloud • ⚙️ DevOps • 🔐 Cybersecurity
