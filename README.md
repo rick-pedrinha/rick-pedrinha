@@ -2,7 +2,7 @@
 <img src="./henrique-appfun.jpg" width="260"/>
 </p>
 
-<h1 align="center">Henrique Pedrinha | Computer Science</h1>
+<h1 align="center">Henrique Pedrinha | Computer Scientist</h1>
 
 <p align="center">
 🚀 Software Development • ☁️ Cloud • ⚙️ DevOps • 🔐 Cybersecurity
