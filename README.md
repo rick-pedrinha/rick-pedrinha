@@ -20,17 +20,17 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Ciência da Computação** com forte interesse em **infraestrutura de TI, cybersecurity, DevOps, cloud computing e desenvolvimento de software**.
+Sou formado em Ciência da Computação pelo CEUB, com interesse em arquitetura de soluções, infraestrutura de TI, cloud computing, virtualização, segurança cibernética e desenvolvimento de software.
 
-Tenho experiência no desenvolvimento de aplicações completas, como o **App Fun**, uma plataforma de descoberta de eventos com geolocalização, integração com APIs e backend estruturado.
+Atualmente, atuo como Arquiteto de Soluções Júnior na Systech, aprofundando meus conhecimentos em infraestrutura corporativa, dimensionamento de soluções e tecnologias para data centers. Trabalho com estudos e soluções envolvendo o ecossistema Dell Technologies, VMware, armazenamento, redes, backup e computação em nuvem, buscando compreender como projetar ambientes eficientes, seguros, escaláveis e alinhados às necessidades dos clientes.
 
-O projeto **App Fun** recebeu **Prêmio Projeto Destaque 2025.2 — Campus Asa Norte (CEUB)**.
+Na área de desenvolvimento de software, tenho experiência na criação de aplicações e soluções full stack. Um dos meus principais projetos é o App Fun, uma plataforma de descoberta de eventos com geolocalização e integração com APIs e backend estruturado, que recebeu o Prêmio Projeto Destaque 2025.2 — Campus Asa Norte (CEUB).
 
-Também estudo **virtualização e infraestrutura VMware (vSphere, ESXi, vCenter)** e **arquitetura de sistemas distribuídos**.
+Também tenho interesse em DevOps, automação, arquitetura de sistemas distribuídos e cibersegurança, com estudos em virtualização, redes, análise de vulnerabilidades e Ethical Hacking.
 
-Atualmente também realizo estudos em **Cybersecurity e Ethical Hacking através do curso profissional da DESEC Security**, focado em análise de vulnerabilidades, redes e segurança ofensiva.
+Sou movido pela curiosidade, pelo aprendizado contínuo e pela resolução de problemas. Meu objetivo é unir conhecimentos de software e infraestrutura para desenvolver e arquitetar soluções tecnológicas que gerem valor real para empresas e clientes.
 
-📍 Brasília - Brasil
+📍 Brasília, Brasil
 
 ---
 
